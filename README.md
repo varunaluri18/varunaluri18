@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi every one 👋 </h1>
 <p align="center"> My Self VARUN ALURI. I Love ❤️ Machine Learning  </p>
 <img src="C:\Users\dell\Desktop\skull.jpg"/>
 
