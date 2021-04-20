@@ -1,7 +1,6 @@
 <h1 align="center"> Hi every one 👋 </h1>
 <p align="center"> My Self VARUN ALURI. I Love ❤️ Machine Learning  </p>
-<img src="C:\Users\dell\Desktop\skull.jpg"/>
-
+<img align="right" src="https://user-images.githubusercontent.com/46434711/115352911-8536d000-a1d5-11eb-8e08-ed06e5c50410.png" height="300" width="300">
 <h3 align="center"> Language & Skills </h3>
 
 - Python
