@@ -4,4 +4,13 @@
 
 <h3 align="center"> Language & Skills </h3>
 
+- Python
+- C
+- Tableau 
+- Machine Learning
+- Deep learning
+- Natural language processing
+
+<h4 align="center">Dont Judge the Book by it's cover</h4>
+
 
