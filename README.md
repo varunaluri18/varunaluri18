@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am varun. I Love ❤️ Machine Learning  </p>
+<p align="center"> My Self VARUN ALURI. I Love ❤️ Machine Learning  </p>
 <img src="C:\Users\dell\Desktop\skull.jpg"/>
 
 <h3 align="center"> Language & Skills </h3>
