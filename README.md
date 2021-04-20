@@ -15,3 +15,9 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=varunaluri18&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
+hi very gd mng
