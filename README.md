@@ -16,15 +16,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=varunaluri18&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-Regression: Linear regression, Multiple Linear Regression, Decision Tree Regressor,  Random Forest Regressor, XG-Boost Regressor and Regularized Regressions – Lasso & Ridge.
-Classification: Logistic Regression, K Nearest Neighbors, Support Vector Machine, Decision Trees, Random Forest, Ada-Boost, Gradient Boost, XG-Boost.
-Clustering: Hierarchical and k-Means.
-Natural Language Processing: Stemming, Lemmatization, Bag of Words, TF-IDF.
-Hyper Parameter Tuning: Grid SearchCV, Randomized SearchCV.
-Deep Learning: Artificial Neural Networks, Convolution Neural Networks.
-Libraries used: Pandas and Numpy for Data processing, Seaborn and Matlplotlib  for Visualization and Sklearn for model building.
-Feature Engineering Techniques: Imputation, Feature Scaling, Handling Outliers, Handling Categorical Features with Different Encoding Techniques.
-Feature Selection Techniques: Correlation, PCA, Forward Selection, Backward Elimination and Percentage of Missing values.
-Auto ML: Auto Sklearn and Tree Based pipeline Optimization (TPOT).
-Regression Metrics: Mean Absolute Error(MAE), Mean Square Error(MSE), Root Mean Square Error(RMSE), R-Square and Adjusted R-Square
-Classification Metrics: Confusion Matrix, Accuracy, Classification Report, Precision and Recall
+-Regression: Linear regression, Multiple Linear Regression, Decision Tree Regressor,  Random Forest Regressor, XG-Boost Regressor and Regularized Regressions – Lasso & Ridge.
+-Classification: Logistic Regression, K Nearest Neighbors, Support Vector Machine, Decision Trees, Random Forest, Ada-Boost, Gradient Boost, XG-Boost.
+-Clustering: Hierarchical and k-Means.
+-Natural Language Processing: Stemming, Lemmatization, Bag of Words, TF-IDF.
+-Hyper Parameter Tuning: Grid SearchCV, Randomized SearchCV.
+-Deep Learning: Artificial Neural Networks, Convolution Neural Networks.
+-Libraries used: Pandas and Numpy for Data processing, Seaborn and Matlplotlib  for Visualization and Sklearn for model building.
+-Feature Engineering Techniques: Imputation, Feature Scaling, Handling Outliers, Handling Categorical Features with Different Encoding Techniques.
+-Feature Selection Techniques: Correlation, PCA, Forward Selection, Backward Elimination and Percentage of Missing values.
+-Auto ML: Auto Sklearn and Tree Based pipeline Optimization (TPOT).
+-Regression Metrics: Mean Absolute Error(MAE), Mean Square Error(MSE), Root Mean Square Error(RMSE), R-Square and Adjusted R-Square
+-Classification Metrics: Confusion Matrix, Accuracy, Classification Report, Precision and Recall
