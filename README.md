@@ -12,3 +12,8 @@
 
 <h4 align="center">Dont Judge the Book by it's cover</h4>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+
+
+<p align="center">
+<a href="https://dev.to/varunaluri18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="varunaluri18" height="40" width="40" /></a>
+</p>
