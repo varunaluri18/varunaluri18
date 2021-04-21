@@ -1,5 +1,3 @@
-<h1 align="center"> Hi 👋 </h1>
-<p align="center"> My Self VARUN ALURI. I Love ❤️ Machine Learning  </p>
 <img align="right" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="300" width="300">
 <h3 align="center"> Language & Skills </h3>
 
