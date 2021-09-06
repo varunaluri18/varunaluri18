@@ -5,7 +5,8 @@
 <h3 align="center"> Language & Skills </h3>
 
 - Python
-- C
+- Oracle SQL
+- Data Ware Housing
 - Tableau 
 - Machine Learning
 - Deep learning
