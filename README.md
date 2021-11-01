@@ -12,10 +12,6 @@
 - AWS
 
 </p>
-----
-</p>
-
-</p>
 
 -----
 ## Languages and Tools  
