@@ -7,10 +7,8 @@
 - Python
 - Oracle SQL
 - Data Ware Housing
-- Tableau 
 - Machine Learning
-- Deep learning
-- Natural language processing
+- AWS
 
 <h4 align="center">Dont Judge the Book by it's cover</h4>
 
