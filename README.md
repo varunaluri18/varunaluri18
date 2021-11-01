@@ -1,5 +1,5 @@
-<h1 align="center"> Hi every body👋 </h1>
-<p align="center"> My Self Varun Nagendra Aluri </p>
+<h1 align="center"> hi👋 </h1>
+<p align="center"> I am varun aluri.I love Oracle.I am currently working as Data engineer. </p>
 
 <img align="right" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="200" width="200">
 <h3 align="center"> Skill Set </h3>
