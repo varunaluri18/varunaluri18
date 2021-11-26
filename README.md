@@ -2,10 +2,8 @@
 <p align="center"> I ❤️ Oracle,Machine Learning and currently working as Data engineer. </p>
 
 ## Connect with me at:
-<p align="left">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varunaluri18/)
 [![Linkedin Badge](https://img.shields.io/badge/-Kaggle-ff0000?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/varunaluri18)
-</p>
     
 
 <img align="right" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="200" width="200">
