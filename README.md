@@ -1,6 +1,9 @@
 <h1 align="center"> hi👋 </h1>
 <p align="center"> I ❤️ Oracle,Machine Learning and currently working as Data engineer. </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varunaluri18/)
+
+
 <img align="right" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="200" width="200">
 <h3 align="center"> Skill Set </h3>
 
@@ -26,8 +29,6 @@
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
      
 </p>
-
-
 
 <h4 align="center">Dont Judge a Book by it's cover</h4>
 
