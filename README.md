@@ -3,9 +3,8 @@
 
 ## 🙋‍♂️ About Me
 
-- I’m currently working as **Data Engineer**
-
-- How to reach me **varunaluri18@gmail.com**
+I’m currently working as **Data Engineer**
+How to reach me **varunaluri18@gmail.com**
 
 <img align="right" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="200" width="200">
 <h3 align="center"> Skill Set </h3>
