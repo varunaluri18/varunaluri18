@@ -24,9 +24,18 @@
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
     <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>     
-    <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-     
+    <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 </p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Varun Aluri Github Stats" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Varun Aluri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<br/>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
