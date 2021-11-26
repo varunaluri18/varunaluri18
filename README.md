@@ -33,11 +33,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=varunaluri18&theme=grubex)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/varunaluri18/github-readme-activity-graph"><img alt="Varun Aluri Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=varunaluri18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/varunaluri18/github-readme-activity-graph"><img alt="Varun Aluri Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=varunaluri18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
