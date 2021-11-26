@@ -33,6 +33,14 @@ How to reach me **varunaluri18@gmail.com**
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 </p>
 
+
+<p align="center">
+    <a href="https://github.com/varunaluri18/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="varun's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=varunaluri18&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+
 ## 📊 My Github Stats 
 <br/>
 <a href="https://github.com/varunaluri18/github-readme-stats"><img alt="varun Github Stats" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
