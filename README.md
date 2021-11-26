@@ -8,8 +8,9 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/varunaluri18/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.kaggle.com/varunaluri18"><img src="https://img.icons8.com/fluent/48/000000/kaggle.png"/></a>
-
 </p>
+<a href = "https://www.kaggle.com/varunaluri18"><img src="https://www.bing.com/images/search?q=kaggle+logo+png&id=5807B9047938800A45FCA11117F5683E7E2004E6&FORM=IQFRBA"/></a>
+
 
 
 <img align="right" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="200" width="200">
