@@ -27,12 +27,12 @@
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 </p>
 
-## 📊 My Github Stats
-  <br/>
-  <a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Varun Aluri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+## 📊 My Github Stats 
 <br/>
-## 📊 My Github Stats
-  <a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Varun Aluri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Varun Aluri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+
+<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=varunaluri18&theme=grubex)](https://github.com/ryo-ma/github-profile-trophy)
