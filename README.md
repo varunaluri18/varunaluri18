@@ -33,6 +33,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 <br/>
 
+<a href="https://github.com/varunaluri18/github-readme-stats"><img alt="varun Github Stats" src="https://github-readme-stats.vercel.app/api?
+username=varunaluri18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+
 <a href="https://github.com/varunaluri18/github-readme-activity-graph"><img alt="Varun Aluri Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=varunaluri18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## ❤ Views and Followers
