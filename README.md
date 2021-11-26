@@ -1,17 +1,12 @@
 <h1 align="center"> hi👋 </h1>
 <p align="center"> I ❤️ Oracle,Machine Learning and currently working as Data engineer. </p>
 
+## Connect with me at:
+<p align="left">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varunaluri18/)
 [![Linkedin Badge](https://img.shields.io/badge/-Kaggle-ff0000?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/varunaluri18)
-
-## Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/varunaluri18/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.kaggle.com/varunaluri18"><img src="https://img.icons8.com/fluent/48/000000/kaggle.png"/></a>
 </p>
-<a href = "https://www.kaggle.com/varunaluri18"><img src="https://www.bing.com/images/search?q=kaggle+logo+png&id=5807B9047938800A45FCA11117F5683E7E2004E6&FORM=IQFRBA"/></a>
-
-
+    
 
 <img align="right" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="200" width="200">
 <h3 align="center"> Skill Set </h3>
