@@ -40,3 +40,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=varunaluri18&theme=grubex)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=varunaluri18">
+</a>
+<a href="https://github.com/varunaluri18?tab=followers"><img src="https://img.shields.io/github/followers/varunaluri18?label=Followers&style=social" alt="GitHub Badge"></a>
