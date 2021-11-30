@@ -45,6 +45,12 @@ How to reach me **varunaluri18@gmail.com**
   </a>
 </p>
 
+
+<h2 align="left">Our Kaggle Badges:</h2>
+
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/varunaluri18/notebook/light) ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/varunaluri18/discussion/light)
+
+
 ## 📊 My Github Stats 
 <br/>
 <a href="https://github.com/varunaluri18/github-readme-stats"><img alt="varun Github Stats" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
