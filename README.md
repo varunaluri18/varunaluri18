@@ -52,9 +52,7 @@ How to reach me **varunaluri18@gmail.com**
 <br/>
 
 <a href="https://github.com/varunaluri18/github-readme-activity-graph"><img alt="Varun Aluri Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=varunaluri18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 ## Views and Followers❤ 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=varunaluri18">
