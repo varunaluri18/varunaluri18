@@ -16,6 +16,7 @@ How to reach me **varunaluri18@gmail.com**
 - C language
 - Python
 - Oracle SQL
+- ETL
 - Data Ware Housing
 - Machine Learning
 - AWS
