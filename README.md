@@ -1,4 +1,7 @@
-<h2 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm varun <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">Hello World ! 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+varun!;I'm+a+developer...;)](https://git.io/typing-svg)
+
+</h2>
 <p align="center"> I ❤️ Oracle,Machine Learning and currently working as Data engineer. </p>
 
 ## 🙋‍♂️ About Me
