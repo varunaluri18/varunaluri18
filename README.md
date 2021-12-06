@@ -14,20 +14,8 @@ How to reach me **varunaluri18@gmail.com**
 ## Connect with me at:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varunaluri18/)
 [![Linkedin Badge](https://img.shields.io/badge/-Kaggle-ff0000?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/varunaluri18)
-
-
- <p align="left">
-
-  <a href="https://www.linkedin.com/in/varunaluri18/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varunaluri18" /></a>
-
-  [![Linkedin Badge](https://img.shields.io/badge/-Kaggle-ff0000?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/varunaluri18)
-
-    
-  <a href="https://www.instagram.com/varunaluri18/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/varunaluri18/"/></a>
-</p>  
-
+<a href="https://www.instagram.com/varunaluri18/" alt="Instagram">
+<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/varunaluri18/"/></a>
 
 
 <img align="right" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="200" width="200">
