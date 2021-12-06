@@ -18,6 +18,13 @@ How to reach me **varunaluri18@gmail.com**
 [![Linkedin Badge](https://img.shields.io/badge/-Kaggle-ff0000?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/varunaluri18)
 
 
+## Views and Followers❤ 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=varunaluri18">
+</a>
+<a href="https://github.com/varunaluri18?tab=followers"><img src="https://img.shields.io/github/followers/varunaluri18?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
 <img align="right" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="200" width="200">
 <h3> Skill Set </h3>
 
