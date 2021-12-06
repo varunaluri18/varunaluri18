@@ -27,9 +27,7 @@ How to reach me **varunaluri18@gmail.com**
 <h3> Skill Set </h3>
 
 - C language
-
 - Python
-
 - Oracle SQL
 
 - ETL
