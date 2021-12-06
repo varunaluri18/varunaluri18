@@ -3,9 +3,9 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Varun Aluri</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+varun!;Hey!+It's+varun!...;Hey!+It's+varun!)](https://git.io/typing-svg)
 <h3 align="center">Data Engineer | Machine Learning Enthusiast ❤️ | Data Analysis Enthusiast</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+varun!;Hey!+It's+varun!...;Hey!+It's+varun!)](https://git.io/typing-svg)
 
 
 ## 🙋‍♂️ About Me
