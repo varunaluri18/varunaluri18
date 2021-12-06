@@ -103,7 +103,7 @@ How to reach me **varunaluri18@gmail.com**
 
 
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=varunaluri18/pyspark)
+![Your Repository's Stats](https://contrib.rocks/image?repo=varunaluri18)
 ![Your Repository's Stats](https://contrib.rocks/image?repo=varunaluri18/Python)
 ![Your Repository's Stats](https://contrib.rocks/image?repo=varunaluri18/Python)
 ![Your Repository's Stats](https://contrib.rocks/image?repo=varunaluri18/Python)
