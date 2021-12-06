@@ -103,8 +103,6 @@ How to reach me **varunaluri18@gmail.com**
 
 
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=varunaluri18/python)
-![Your Repository's Stats](https://contrib.rocks/image?repo=varunaluri18/Python)
 ![Your Repository's Stats](https://contrib.rocks/image?repo=varunaluri18/Python)
 ![Your Repository's Stats](https://contrib.rocks/image?repo=varunaluri18/Python)
 ![Your Repository's Stats](https://contrib.rocks/image?repo=varunaluri18/Python)
