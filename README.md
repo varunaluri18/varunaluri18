@@ -22,7 +22,7 @@ How to reach me **varunaluri18@gmail.com**
 <a href="https://github.com/varunaluri18?tab=followers"><img src="https://img.shields.io/github/followers/varunaluri18?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=varunaluri18"></a>
 
-<img align="right" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="280" width="700">
+<img align="right" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="280" width="600">
 <h3> Skill Set </h3>
 
 - C language
@@ -105,3 +105,5 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=varunaluri18&column=8&margin-w=15&margin-h=15" alt="varunaluri"></a> 
+[![-------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/varunaluri18?tab=repositories)
