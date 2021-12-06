@@ -103,3 +103,4 @@ How to reach me **varunaluri18@gmail.com**
 
 ## Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=varunaluri18/Python)
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
