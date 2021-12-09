@@ -4,7 +4,7 @@
 <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h3 align="center">Data Engineer | Machine Learning Enthusiast ❤️ | Data Analysis Enthusiast</h3>
+<h3 align="center">Data Analyst | Machine Learning Enthusiast ❤️ | Data Engineer Enthusiast</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -101,4 +101,4 @@ How to reach me **varunaluri18@gmail.com**
 [![-------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/varunaluri18?tab=repositories)
 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=varunaluri18&column=8&margin-w=15&margin-h=15" alt="varunaluri"></a> 
 
-<h2>Bye..............</h2>
+<Br>Bye..............</Br>
