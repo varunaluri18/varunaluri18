@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+varun!;Hey!+It's+varun!...;Hey!+It's+varun!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF798A&size=35&lines=Hey!+It's+varun!;Hey!+It's+varun!...;Hey!+It's+varun!)](https://git.io/typing-svg)
 
 <p align="center">
 <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
