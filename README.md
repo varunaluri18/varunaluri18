@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-I’m currently working as **Data Engineer**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+I’m currently working on **OBIEE**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 How to reach me **varunaluri18@gmail.com**
 ## You can reach me at:
