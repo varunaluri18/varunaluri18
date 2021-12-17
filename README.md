@@ -7,7 +7,7 @@
 <hr>
 <h3 align="center">Data Analyst | Machine Learning Enthusiast ❤️ | Data Engineer Enthusiast</h3>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me ✨
 
 I’m currently working on **OBIEE**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
@@ -25,7 +25,7 @@ How to reach me **varunaluri18@gmail.com**
 
 <img align="right" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="250" width="589">
 
-<h3> Skill Set </h3>
+<h3> ✨Skill Set✨ </h3>
 
 - C language
 - Python
@@ -63,7 +63,7 @@ How to reach me **varunaluri18@gmail.com**
 </p>
 
 
-## 📊 My Github Stats 
+## 📊 My Github Stats ✨
 <p >
 <a href="https://github.com/varunaluri18/github-readme-stats"><img alt="varun Github Stats" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Varun Aluri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
