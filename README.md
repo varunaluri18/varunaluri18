@@ -6,7 +6,6 @@
 </p>
 
 <h3 align="center">Data Analyst | Machine Learning Enthusiast ❤️ | Data Engineer Enthusiast</h3>
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ## 🙋‍♂️ About Me ✨
 
 I’m currently working on **OBIEE**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
