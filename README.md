@@ -103,5 +103,5 @@ How to reach me **varunaluri18@gmail.com**
 *** Thanks for visit my profile. ***
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-<img align="right" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="250" width="589">
+<img align="left" src="https://user-images.githubusercontent.com/46434711/115353399-1312bb00-a1d6-11eb-960d-c1720afec7e3.png" height="250" width="589">
 
