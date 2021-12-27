@@ -4,9 +4,9 @@
 <p align="center">
 <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-<h3 align="center">Data Analyst | Machine Learning Enthusiast ❤️ | Data Engineer Enthusiast</h3>
 
+<h3 align="center">Data Analyst | Machine Learning Enthusiast ❤️ | Data Engineer Enthusiast</h3>
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ## 🙋‍♂️ About Me ✨
 
 I’m currently working on **OBIEE**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
