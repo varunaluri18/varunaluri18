@@ -36,7 +36,6 @@ How to reach me **varunaluri18@gmail.com**
 
 </p>
 
------
 
 ## 🚀 Languages and Tools:
 
