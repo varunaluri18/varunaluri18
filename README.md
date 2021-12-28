@@ -57,6 +57,7 @@ How to reach me **varunaluri18@gmail.com**
 <a href="https://github.com/varunaluri18/github-readme-stats"><img alt="varun Github Stats" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Varun Aluri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>    
 </p>
+<a href="https://github.com/varunaluri18/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>    
 
 ## 🔥 Streak stats
 
