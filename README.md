@@ -109,15 +109,16 @@ How to reach me **varunaluri18@gmail.com**
 
 
 
-| <a href="https://github.com/varunaluri18/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="varun's github stats" /></a> | <a href="https://github.com/varunaluri18/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&layout=compact&theme=react&hide_border=true" /></a> |
+| <a href="https://github.com/varunaluri18/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="varun's github stats" /></a> | 
+<a href="https://github.com/varunaluri18/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&layout=compact&theme=react&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/varunaluri18/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=varunaluri18&repo=github-readme-stats&theme=react" />
 </a>
 <a href="https://github.com/varunaluri18/varunaluri18.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=varunaluri18&repo=anuraghazra.github.io&theme=react" />
 </a>
