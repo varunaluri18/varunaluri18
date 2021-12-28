@@ -38,7 +38,7 @@ How to reach me **varunaluri18@gmail.com**
 </p>
 
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
 <p align="left"> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
@@ -51,9 +51,9 @@ How to reach me **varunaluri18@gmail.com**
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 </p>
 
-## 📊 My Github Stats 🔥
+## 📊 My Github Stats �
 <p >
-<a href="https://github.com/varunaluri18/github-readme-stats"><img alt="varun's Git Stats" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Varun Aluri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>    
 </p>
 
