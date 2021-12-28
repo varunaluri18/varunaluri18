@@ -26,14 +26,15 @@ How to reach me **varunaluri18@gmail.com**
 ## Skill Set ✨
 
 - <b>C Language</b>
-- Python
-- Oracle SQL
-- ETL
-- Data Ware Housing
-- Machine Learning
-- AWS
-- OBIEE
-- BI Publisher
+- <b>Python</b>
+- <b>Oracle SQL</b>
+- <b>PL/SQL</b>
+- <b>ETL</b>
+- <b>Data Ware Housing</b>
+- <b>Machine Learning</b>
+- <b>AWS</b>
+- <b>OBIEE</b>
+- <b>BI Publisher</b>
 
 </p>
 
