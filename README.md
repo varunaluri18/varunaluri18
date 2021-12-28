@@ -1,3 +1,7 @@
+<a href="https://github.com/varunaluri18/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=varunaluri18&repo=github-readme-stats&theme=react" />
+</a>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF798456A&size=40&lines=Hey!+It's+varun!;Hey!+It's+varun!...;Hey!+It's+varun!)](https://git.io/typing-svg)
 
 <p align="center">
