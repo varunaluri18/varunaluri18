@@ -120,5 +120,5 @@ How to reach me **varunaluri18@gmail.com**
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=varunaluri18&repo=github-readme-stats&theme=react" />
 </a>
 <a href="https://github.com/varunaluri18/varunaluri18.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=varunaluri18&repo=anuraghazra.github.io&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=varunaluri18&repo=varunaluri18.github.io&theme=react" />
 </a>
