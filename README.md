@@ -33,6 +33,7 @@ How to reach me **varunaluri18@gmail.com**
 - Machine Learning
 - AWS
 - OBIEE
+- BI Publisher
 
 </p>
 
