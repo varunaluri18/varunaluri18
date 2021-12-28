@@ -67,6 +67,8 @@ How to reach me **varunaluri18@gmail.com**
 <a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Varun Aluri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
+<a href="https://github.com/varunaluri18/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&layout=compact&theme=react&hide_border=true" /></a>
+
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
@@ -103,22 +105,7 @@ How to reach me **varunaluri18@gmail.com**
 <b> Thanks for visit my profile. </b>
 
 
-
-
-<a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Varun Aluri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&langs_count=9&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-
-
 | <a href="https://github.com/varunaluri18/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=varunaluri18&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="varun's github stats" /></a> | 
 <a href="https://github.com/varunaluri18/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&layout=compact&theme=react&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/varunaluri18/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=varunaluri18&repo=github-readme-stats&theme=react" />
-</a>
-<a href="https://github.com/varunaluri18/varunaluri18.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=varunaluri18&repo=varunaluri18.github.io&theme=react" />
-</a>
