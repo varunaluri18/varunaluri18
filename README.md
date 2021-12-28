@@ -25,7 +25,7 @@ How to reach me **varunaluri18@gmail.com**
 
 ## Skill Set ✨
 
-- C Language
+- <b>C Language</b>
 - Python
 - Oracle SQL
 - ETL
