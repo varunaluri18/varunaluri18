@@ -102,7 +102,6 @@ How to reach me **varunaluri18@gmail.com**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=varunaluri18&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-<b> Thanks for visit my profile. </b>
 **Thanks for visit my profile.**
 
 
