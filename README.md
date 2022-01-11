@@ -24,6 +24,7 @@ How to reach me **varunaluri18@gmail.com**
 
 <img align="right" src="https://wallpapercave.com/wp/UIxerQM.jpg" height="250" width="450">
 
+
 ## Skill Set ✨
 
 - <b>C Language</b>
