@@ -22,10 +22,9 @@ How to reach me **varunaluri18@gmail.com**
 <a href="https://github.com/varunaluri18?tab=followers"><img src="https://img.shields.io/github/followers/varunaluri18?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=varunaluri18"></a>
 
-<img align="right" src="https://wallpapercave.com/wp/UIxerQM.jpg" height="250" width="450">
-
-
 ## Skill Set ✨
+
+<img align="right" src="https://wallpapercave.com/wp/UIxerQM.jpg" height="250" width="450">
 
 - <b>C Language</b>
 - <b>Python</b>
