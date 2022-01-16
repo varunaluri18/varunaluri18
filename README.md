@@ -24,7 +24,7 @@ How to reach me **varunaluri18@gmail.com**
 
 ## Skill Set ✨
 
-<img align="right" src="https://wallpapercave.com/wp/UIxerQM.jpg" height="250" width="450">
+<img align="right" src="https://th.bing.com/th/id/R.b044f302f0b470d189684eb0e7392f21?rik=fsR9SZWDZCVZLQ&riu=http%3a%2f%2fwww.hdwallpapersfreedownload.com%2fuploads%2flarge%2fsuper-heroes%2fthor-hammer-hd.jpg&ehk=RAwisfKGwpDLhx7Qg9hmcqTEk%2f1t%2f3IiUkjS0%2fnk6Ig%3d&risl=&pid=ImgRaw&r=0" height="250" width="450">
 
 - <b>C Language</b>
 - <b>Python</b>
