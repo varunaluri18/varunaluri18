@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF798456A&size=40&lines=Hey!+It's+varun!;Hey!+It's+varun!...;Hey!+It's+varun!)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF798456A&size=4&lines=Hey!+It's+varun!;Hey!+It's+varun!...;Hey!+It's+varun!)](https://git.io/typing-svg)
 
 <h3 align="center">Data Analyst | Machine Learning Enthusiast ❤️ | Data Engineer Enthusiast</h3>
 
