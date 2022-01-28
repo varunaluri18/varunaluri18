@@ -22,6 +22,8 @@ How to reach me **varunaluri18@gmail.com**
 
 ## Skill Set ✨
 
+<img align="right" src="https://www.stylevore.com/wp-content/uploads/2020/01/0aecae65e9c73f438c2c77120067ce29.jpg" height="180" width="180">
+
 - <b>C Language</b>
 - <b>Python</b>
 - <b>Oracle SQL</b>
