@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=57AF798456A&size=29&lines=Hey!+It's+varun!...;Hey!+It's+varun!...;Hey!+It's+varun!...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF798456A&size=29&lines=Hey!+It's+varun!...;Hey!+It's+varun!...;Hey!+It's+varun!...)](https://git.io/typing-svg)
 
 <h3 align="center">Data Analyst | Machine Learning Enthusiast ❤️ | Data Engineer Enthusiast</h3>
 
@@ -19,8 +19,6 @@ How to reach me **varunaluri18@gmail.com**
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=varunaluri18"></a>
 
 ## Skill Set ✨
-
-<img align="right" src="https://th.bing.com/th/id/R.b044f302f0b470d189684eb0e7392f21?rik=fsR9SZWDZCVZLQ&riu=http%3a%2f%2fwww.hdwallpapersfreedownload.com%2fuploads%2flarge%2fsuper-heroes%2fthor-hammer-hd.jpg&ehk=RAwisfKGwpDLhx7Qg9hmcqTEk%2f1t%2f3IiUkjS0%2fnk6Ig%3d&risl=&pid=ImgRaw&r=0" height="250" width="450">
 
 - <b>C Language</b>
 - <b>Python</b>
