@@ -73,7 +73,7 @@ How to reach me **varunaluri18@gmail.com**
 [![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/varunaluri18?tab=repositories)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=varunaluri18&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=varunaluri18&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Thanks for visit my profile.**
 
