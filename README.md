@@ -57,10 +57,10 @@ How to reach me **varunaluri18@gmail.com**
 <a href="https://github.com/varunaluri18/github-readme-stats"><img alt="Varun Aluri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunaluri18&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>    
 </p>
 
-## 🔥 Streak stats
+<!--## 🔥 Streak stats -->
 
 <!-- GitHub Readme Streak Stats - https://github.com/varunaluri18/github-readme-streak-stats -->
-<p >
+<!--<p >
   <a href="https://github.com/varunaluri18/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="varun's streak" src="https://github-readme-streak-stats.herokuapp.com?user=varunaluri18&theme=monokai-metallian&hide_border=true"/>
   </a>
@@ -71,7 +71,7 @@ How to reach me **varunaluri18@gmail.com**
  
 
 [![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/varunaluri18?tab=repositories)
-
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=varunaluri18&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
