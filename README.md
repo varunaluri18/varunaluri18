@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF798456A&size=29&lines=Hey!+It's+varun!...;Hey!+It's+varun!...;Hey!+It's+varun!...)](https://git.io/typing-svg)
 
-<h3 align="center">Data Analyst | Machine Learning Enthusiast ❤️ | Data Engineer Enthusiast</h3>
+<h3 align="center">Data Analyst | Machine Learning Enthusiast ❤️ | Data Engineer</h3>
 
 ## 🙋‍♂️ About Me ✨
 
